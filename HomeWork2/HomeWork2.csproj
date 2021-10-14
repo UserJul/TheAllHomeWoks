@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeWork3\HomeWork3.csproj" />
+    <ProjectReference Include="..\HomeWork4\HomeWork4.csproj" />
+    <ProjectReference Include="..\HomeWork5\HomeWork5.csproj" />
+  </ItemGroup>
+
+</Project>
